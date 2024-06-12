@@ -1,3 +1,5 @@
+package searching.jumpsearch;
+
 public class JumpSearch {
     public static int jumpSearch(int[] arr, int target) {
         int n = arr.length;
